@@ -1,81 +1,72 @@
-name: Deploy Flask App to AWS Elastic Beanstalk
+name: Deploy to AWS Elastic Beanstalk
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Code
+      - name: Checkout code
         uses: actions/checkout@v3
-
-      - name: Set Up Python 3.12
+      
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.12"
-    
-      - name: Install AWS CLI, Elastic Beanstalk CLI, and Dependencies
-        run: pip install --upgrade awscli awsebcli botocore
-        
-      - name: Configure AWS Credentials
+          python-version: '3.9'
+      
+      - name: Install dependencies
         run: |
-          mkdir -p ~/.aws
-          echo "[default]" > ~/.aws/credentials
-          echo "aws_access_key_id = ${{ secrets.AWS_ACCESS_KEY_ID }}" >> ~/.aws/credentials
-          echo "aws_secret_access_key = ${{ secrets.AWS_SECRET_ACCESS_KEY }}" >> ~/.aws/credentials
-          echo "[default]" > ~/.aws/config
-          echo "region = ${{ secrets.AWS_REGION }}" >> ~/.aws/config
-
-      - name: Recreate .env File from GitHub Secrets
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install awsebcli
+      
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+      
+      - name: Create .env file
         run: |
-          echo "GOOGLE_API_KEY=${{ secrets.GOOGLE_API_KEY }}" > .env
-          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> .env
-          echo "TAVILY_API_KEY=${{ secrets.TAVILY_API_KEY }}" >> .env
-
-      - name: Verify requirements.txt exists
-        run: |
-          ls -la
-          if [ ! -f "requirements.txt" ]; then
-            echo "Error: requirements.txt not found"
-            exit 1
-          fi
-
-      - name: Initialize Elastic Beanstalk (If Needed)
-        run: |
-          if [ ! -d ".elasticbeanstalk" ]; then
-            eb init -p python-3.12 EducationAgentResearcher --region ${{ secrets.AWS_REGION }}
-          fi
-
-      - name: Create EB config.yml if needed
-        run: |
-          mkdir -p .elasticbeanstalk
-          cat > .elasticbeanstalk/config.yml << EOF
-          branch-defaults:
-            main:
-              environment: EducationAgentEnv
-          global:
-            application_name: EducationAgentResearcher
-            default_platform: Python 3.12
-            default_region: ${{ secrets.AWS_REGION }}
-            sc: git
+          cat > .env << EOF
+          GOOGLE_API_KEY=${{ secrets.GOOGLE_API_KEY }}
+          OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}
+          TAVILY_API_KEY=${{ secrets.TAVILY_API_KEY }}
           EOF
-
-      - name: Check if Environment Exists
-        id: check_env
+      
+      - name: Create Procfile
         run: |
-          if aws elasticbeanstalk describe-environments --application-name EducationAgentResearcher --query "Environments[?EnvironmentName=='EducationAgentEnv'].EnvironmentName" --output text | grep -q 'EducationAgentEnv'; then
-            echo "env_exists=true" >> $GITHUB_OUTPUT
-          else
-            echo "env_exists=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Create Environment (If Needed)
-        if: steps.check_env.outputs.env_exists != 'true'
-        run: eb create EducationAgentEnv --region ${{ secrets.AWS_REGION }}
-
+          echo "web: gunicorn webapp:app" > Procfile
+          
+      - name: Create Elastic Beanstalk config
+        run: |
+          mkdir -p .ebextensions
+          cat > .ebextensions/01_flask.config << EOF
+          option_settings:
+            aws:elasticbeanstalk:container:python:
+              WSGIPath: webapp:app
+            aws:elasticbeanstalk:application:environment:
+              GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+              OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+              TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          EOF
+      
+      - name: Generate deployment package
+        run: zip -r deploy.zip * -x "*.git*"
+      
       - name: Deploy to Elastic Beanstalk
-        run: eb deploy EducationAgentEnv --region ${{ secrets.AWS_REGION }}
+        uses: einaregilsson/beanstalk-deploy@v21
+        with:
+          aws_access_key: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          application_name: EducationAgentResearcher
+          environment_name: EducationAgentResearcher-env
+          region: ${{ secrets.AWS_REGION }}
+          version_label: ${{ github.sha }}-${{ github.run_number }}
+          deployment_package: deploy.zip
+          wait_for_environment_recovery: 180
