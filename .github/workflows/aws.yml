@@ -19,7 +19,7 @@ jobs:
           python-version: "3.12"
     
       - name: Install boto
-        run: pip install botocore==1.31.87 --user
+        run: pip install botocore==1.36.2 --user
 
       - name: Install AWS CLI (Pinned Version)
         run: pip install awscli==1.38.4 --user
