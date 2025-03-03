@@ -19,10 +19,10 @@ jobs:
           python-version: "3.12"
 
       - name: Install AWS CLI (Pinned Version)
-        run: pip install awscli==1.27.66 --upgrade --user
+        run: pip install awscli==1.38.4 --user
 
       - name: Install Elastic Beanstalk CLI (Pinned Version)
-        run: pip install awsebcli==3.20.3 --upgrade --user
+        run: pip install awsebcli==3.21.0 --user
 
       - name: Configure AWS Credentials
         run: |
