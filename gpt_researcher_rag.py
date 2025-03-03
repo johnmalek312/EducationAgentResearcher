@@ -19,7 +19,7 @@ import asyncio
 from test_evalutate import run_test_evaluation
 # Load environment variables from .env file
 load_dotenv()
-trace = True
+trace = False
 if trace:
     from opentelemetry.sdk import trace as trace_sdk
     from opentelemetry.sdk.trace.export import SimpleSpanProcessor
