@@ -3,7 +3,7 @@ name: Deploy Flask App to AWS Elastic Beanstalk
 on:
   push:
     branches:
-      - main  # Adjust if your default branch is different
+      - main
 
 jobs:
   deploy:
@@ -48,4 +48,15 @@ jobs:
       - name: Check if Environment Exists
         id: check_env
         run: |
-          if aws elasticbeanstalk describe-environments --application-name EducationAgentResearcher --query "Environments[?EnvironmentName=='EducationAgentEnv'].EnvironmentName" --output text |
+          if aws elasticbeanstalk describe-environments --application-name EducationAgentResearcher --query "Environments[?EnvironmentName=='EducationAgentEnv'].EnvironmentName" --output text | grep -q 'EducationAgentEnv'; then
+            echo "env_exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "env_exists=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create Environment (If Needed)
+        if: steps.check_env.outputs.env_exists != 'true'
+        run: eb create EducationAgentEnv --region ${{ secrets.AWS_REGION }}
+
+      - name: Deploy to Elastic Beanstalk
+        run: eb deploy EducationAgentEnv --region ${{ secrets.AWS_REGION }}
