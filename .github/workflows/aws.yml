@@ -36,11 +36,33 @@ jobs:
           echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> .env
           echo "TAVILY_API_KEY=${{ secrets.TAVILY_API_KEY }}" >> .env
 
+      - name: Verify requirements.txt exists
+        run: |
+          ls -la
+          if [ ! -f "requirements.txt" ]; then
+            echo "Error: requirements.txt not found"
+            exit 1
+          fi
+
       - name: Initialize Elastic Beanstalk (If Needed)
         run: |
           if [ ! -d ".elasticbeanstalk" ]; then
             eb init -p python-3.12 EducationAgentResearcher --region ${{ secrets.AWS_REGION }}
           fi
+
+      - name: Create EB config.yml if needed
+        run: |
+          mkdir -p .elasticbeanstalk
+          cat > .elasticbeanstalk/config.yml << EOF
+          branch-defaults:
+            main:
+              environment: EducationAgentEnv
+          global:
+            application_name: EducationAgentResearcher
+            default_platform: Python 3.12
+            default_region: ${{ secrets.AWS_REGION }}
+            sc: git
+          EOF
 
       - name: Check if Environment Exists
         id: check_env
