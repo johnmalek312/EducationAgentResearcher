@@ -18,15 +18,9 @@ jobs:
         with:
           python-version: "3.12"
     
-      - name: Install boto
-        run: pip install botocore==1.36.2 --user
-
-      - name: Install AWS CLI (Pinned Version)
-        run: pip install awscli==1.38.4 --user
-
-      - name: Install Elastic Beanstalk CLI (Pinned Version)
-        run: pip install awsebcli==3.21.0 --user
-
+      - name: Install AWS CLI, Elastic Beanstalk CLI, and Dependencies
+        run: pip install --upgrade awscli awsebcli botocore
+        
       - name: Configure AWS Credentials
         run: |
           mkdir -p ~/.aws
