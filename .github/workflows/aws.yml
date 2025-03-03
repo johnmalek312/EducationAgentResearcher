@@ -13,8 +13,13 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
+      - name: Set Up Python 3.12
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
       - name: Install AWS CLI
-        run: sudo apt-get install -y awscli
+        run: pip install awscli --upgrade --user
 
       - name: Install Elastic Beanstalk CLI
         run: pip install awsebcli --upgrade --user
@@ -37,27 +42,4 @@ jobs:
           if aws elasticbeanstalk describe-environments --application-name EducationAgentResearcher --query "Environments[?EnvironmentName=='EducationAgentEnv'].EnvironmentName" --output text | grep -q EducationAgentEnv; then
             echo "env_exists=true" >> $GITHUB_ENV
           else
-            echo "env_exists=false" >> $GITHUB_ENV
-          fi
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: ${{ secrets.AWS_REGION }}
-
-      - name: Create Environment (If It Doesn't Exist)
-        if: env.env_exists == 'false'
-        run: |
-          eb create EducationAgentEnv --single --instance-type t2.micro --platform "Python 3.12"
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: ${{ secrets.AWS_REGION }}
-
-      - name: Deploy to AWS Elastic Beanstalk
-        run: |
-          eb use EducationAgentEnv
-          eb deploy EducationAgentEnv
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: ${{ secrets.AWS_REGION }}
+            echo "
