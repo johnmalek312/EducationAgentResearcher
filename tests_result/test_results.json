@@ -1,0 +1,683 @@
+{
+  "total_questions": 40,
+  "correct_answers": 32,
+  "incorrect_answers": 8,
+  "question_results": [
+    {
+      "question": "COEs (confirmation of enrolments) are created through:",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "PRISMS"
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "PRISMS"
+      ],
+      "is_correct": true,
+      "full_response": "COEs are created through PRISMS, a web-based document system.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/c3-1-before-arriving-in-australia/](https://www.icef.com/academy/topic/c3-1-before-arriving-in-australia/)\n2. [https://www.icef.com/academy/topic/b6-2-what-is-a-coe/](https://www.icef.com/academy/topic/b6-2-what-is-a-coe/)\n3. [https://www.icef.com/academy/lessons/b6-prisms/](https://www.icef.com/academy/lessons/b6-prisms/)\n4. [https://www.icef.com/academy/topic/b6-1-access-to-prisms/](https://www.icef.com/academy/topic/b6-1-access-to-prisms/)\n5. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n6. [https://www.icef.com/academy/topic/b6-3-what-does-a-coe-look-like/](https://www.icef.com/academy/topic/b6-3-what-does-a-coe-look-like/)\n7. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n8. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n9. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n10. [https://www.icef.com/academy/topic/a8-8-creative-industries/](https://www.icef.com/academy/topic/a8-8-creative-industries/)\n11. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n"
+    },
+    {
+      "question": "Legislation and regulations in Australia relating to the enrolment of international students are:",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "The ESOS Act 2000 and The National Code of Practice 2018"
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "The ESOS Act 2000 and The National Code of Practice 2018"
+      ],
+      "is_correct": true,
+      "full_response": "International education in Australia is regulated through Acts of Parliament and associated regulations at both the Federal and State levels. Some of the key aspects of these regulations include the ESOS Act, the National Code, CRICOS registration, Student Visa Regulations, and Privacy legislation.\n\n\nSources:\n1. [https://www.icef.com/academy/lessons/b1-overview/](https://www.icef.com/academy/lessons/b1-overview/)\n2. [https://www.icef.com/academy/topic/b2-2-the-national-code-of-practice-2018/](https://www.icef.com/academy/topic/b2-2-the-national-code-of-practice-2018/)\n3. [https://www.icef.com/academy/topic/a4-5-advantages-to-international-students/](https://www.icef.com/academy/topic/a4-5-advantages-to-international-students/)\n4. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n5. [https://www.icef.com/academy/lessons/b2-an-introduction-to-regulations-and-legislation/](https://www.icef.com/academy/lessons/b2-an-introduction-to-regulations-and-legislation/)\n6. [https://www.icef.com/academy/topic/c2-6-government-peak-bodies-and-other-organisations/](https://www.icef.com/academy/topic/c2-6-government-peak-bodies-and-other-organisations/)\n7. [https://www.icef.com/academy/topic/a7-9-internationalisation-in-higher-education-in-australia/](https://www.icef.com/academy/topic/a7-9-internationalisation-in-higher-education-in-australia/)\n8. [https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/](https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/)\n9. [https://www.icef.com/academy/topic/a4-5-advantages-to-international-students/](https://www.icef.com/academy/topic/a4-5-advantages-to-international-students/)\n10. [https://www.icef.com/academy/topic/a4-4-entry-points-typical-costs-and-accommodation-options/](https://www.icef.com/academy/topic/a4-4-entry-points-typical-costs-and-accommodation-options/)\n11. [https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/](https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/)\n"
+    },
+    {
+      "question": "Which of the following circumstances is NOT reported online through PRISMS by an educational institution:",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "Students finishing their ELICOS course one week later due to approved vacation."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "Both B and C"
+      ],
+      "is_correct": false,
+      "full_response": "Students are not reported if they follow their original pathway or if their eCoE details remain unchanged.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b6-4-reporting-students-using-prisms/](https://www.icef.com/academy/topic/b6-4-reporting-students-using-prisms/)\n2. [https://www.icef.com/academy/topic/b6-1-access-to-prisms/](https://www.icef.com/academy/topic/b6-1-access-to-prisms/)\n3. [https://www.icef.com/academy/topic/b2-3-cricos/](https://www.icef.com/academy/topic/b2-3-cricos/)\n4. [https://www.icef.com/academy/lessons/b6-prisms/](https://www.icef.com/academy/lessons/b6-prisms/)\n5. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n6. [https://www.icef.com/academy/topic/b10-2-when-is-privacy-a-concern/](https://www.icef.com/academy/topic/b10-2-when-is-privacy-a-concern/)\n7. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n8. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n9. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n10. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n11. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n"
+    },
+    {
+      "question": "A student you recruited to study in Australia has been very sick and been taken to hospital. They have not provided the institution with a current address. This may mean:",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "The student will not receive any letters about their possible non-compliance with visa conditions"
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "The student will not receive any letters about their possible non-compliance with visa conditions"
+      ],
+      "is_correct": true,
+      "full_response": "If the student has not provided the institution with a current postal address, a formal letter from PRISMS regarding non-compliance may not reach the student, but the student visa may still be cancelled because it is the student\u2019s responsibility to ensure the provider has their current postal address.\n\n\nSources:\n1. [https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/](https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/)\n2. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n3. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n4. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n5. [https://www.icef.com/academy/topic/b8-2-requirements-for-students-under-18/](https://www.icef.com/academy/topic/b8-2-requirements-for-students-under-18/)\n6. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n7. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n8. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n9. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n10. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n11. [https://www.icef.com/academy/topic/b6-4-reporting-students-using-prisms/](https://www.icef.com/academy/topic/b6-4-reporting-students-using-prisms/)\n"
+    },
+    {
+      "question": "A student you recruited to study in Australia has contacted you. Their school has been forced to close down and they will no longer be able to attend classes. Which of the following is likely to happen to the student because their school is closing:",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "The student should be able to transfer to another school in Australia because their status as an international student is protected by the ESOS Act 2000 and the Tuition Protection Service (TPS)."
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "The student will have to go back to their home country because they will no longer be enrolled at a school in Australia. The school will cancel their visa and help them move back to home. The student will receive a refund from the School."
+      ],
+      "is_correct": false,
+      "full_response": "If a student's school closes, the provider will inform DHA and the student visa will be cancelled if the student does not enroll in another course.\n\n\nSources:\n1. [https://www.icef.com/academy/lessons/c3-student-client-management/](https://www.icef.com/academy/lessons/c3-student-client-management/)\n2. [https://www.icef.com/academy/topic/d3-6-student-management/](https://www.icef.com/academy/topic/d3-6-student-management/)\n3. [https://www.icef.com/academy/topic/c3-1-before-arriving-in-australia/](https://www.icef.com/academy/topic/c3-1-before-arriving-in-australia/)\n4. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n5. [https://www.icef.com/academy/lessons/a4-australian-schools/](https://www.icef.com/academy/lessons/a4-australian-schools/)\n6. [https://www.icef.com/academy/topic/c3-3-after-completing-course/](https://www.icef.com/academy/topic/c3-3-after-completing-course/)\n7. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n8. [https://www.icef.com/academy/topic/a4-4-entry-points-typical-costs-and-accommodation-options/](https://www.icef.com/academy/topic/a4-4-entry-points-typical-costs-and-accommodation-options/)\n9. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n10. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n11. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n"
+    },
+    {
+      "question": "The Tuition Protection Service is outlined in:",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "The ESOS Act 2000"
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "The ESOS Act 2000"
+      ],
+      "is_correct": true,
+      "full_response": "The ESOS Act regulates the Tuition Protection Service.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b3-2-protection-for-international-students/](https://www.icef.com/academy/topic/b3-2-protection-for-international-students/)\n2. [https://www.icef.com/academy/topic/c5-5-quality-assurance/](https://www.icef.com/academy/topic/c5-5-quality-assurance/)\n3. [https://www.icef.com/academy/topic/b2-1-the-esos-act/](https://www.icef.com/academy/topic/b2-1-the-esos-act/)\n4. [https://www.icef.com/academy/topic/a7-7-quality-assurance-of-australian-universities/](https://www.icef.com/academy/topic/a7-7-quality-assurance-of-australian-universities/)\n5. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n6. [https://www.icef.com/academy/lessons/b1-overview/](https://www.icef.com/academy/lessons/b1-overview/)\n7. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n8. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n9. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n10. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n11. [https://www.icef.com/academy/topic/a8-8-creative-industries/](https://www.icef.com/academy/topic/a8-8-creative-industries/)\n"
+    },
+    {
+      "question": "Which of the following is a place that a student may apply for a student visa:",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "Online through the DHA website"
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "Online through the DHA website"
+      ],
+      "is_correct": true,
+      "full_response": "Students must apply by using the online form 157A.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b8-1-the-student-visa-application-process/](https://www.icef.com/academy/topic/b8-1-the-student-visa-application-process/)\n2. [https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/](https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/)\n3. [https://www.icef.com/academy/lessons/b8-student-visas-application-processes-specific-requirements-and-integrity-concerns/](https://www.icef.com/academy/lessons/b8-student-visas-application-processes-specific-requirements-and-integrity-concerns/)\n4. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n5. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n6. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n7. [https://www.icef.com/academy/topic/a7-2-university-locations/](https://www.icef.com/academy/topic/a7-2-university-locations/)\n8. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n9. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n10. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n11. [https://www.icef.com/academy/topic/a8-8-creative-industries/](https://www.icef.com/academy/topic/a8-8-creative-industries/)\n"
+    },
+    {
+      "question": "Which of the following is never required by DHA for an individual to obtain a student visa:",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "Providing appropriate information about the individuals knowledge of the history, language and culture of Australia."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "Providing appropriate information about the individuals knowledge of the history, language and culture of Australia."
+      ],
+      "is_correct": true,
+      "full_response": "Based on the context information provided, a student is never required to apply for a Protection Visa to obtain a student visa.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n2. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n3. [https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/](https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/)\n4. [https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/](https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/)\n5. [https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/](https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/)\n6. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n7. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n8. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n9. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n10. [https://www.icef.com/academy/lessons/b8-student-visas-application-processes-specific-requirements-and-integrity-concerns/](https://www.icef.com/academy/lessons/b8-student-visas-application-processes-specific-requirements-and-integrity-concerns/)\n11. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n"
+    },
+    {
+      "question": "DHA considers evidentiary requirements for students from different countries on the basis of:",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "Statistical evidence of how students from that country comply with their visa conditions based on previous students\u2019 behaviour in the last 12 months."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "Statistical evidence of how students from that country comply with their visa conditions based on previous students\u2019 behaviour in the last 12 months."
+      ],
+      "is_correct": true,
+      "full_response": "The evidentiary requirements for each student application are determined by DHA on the basis of a combination of the rating of the student\u2019s country of citizenship and the rating of the provider with which they will undertake their principal course of study.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n2. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n3. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n4. [https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/](https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/)\n5. [https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/](https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/)\n6. [https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/](https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/)\n7. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n8. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n9. [https://www.icef.com/academy/topic/b8-4-examples-of-integrity-concerns-for-dha/](https://www.icef.com/academy/topic/b8-4-examples-of-integrity-concerns-for-dha/)\n10. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n11. [https://www.icef.com/academy/lessons/b8-student-visas-application-processes-specific-requirements-and-integrity-concerns/](https://www.icef.com/academy/lessons/b8-student-visas-application-processes-specific-requirements-and-integrity-concerns/)\n"
+    },
+    {
+      "question": "A student you recruited to study in Australia is studying a Bachelor of Engineering at university on a Student Visa. The student is finding their study program very difficult and would like to study part- time rather than full-time. The student can:",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "Not change to part-time study. Under The National Code students on student visa are not allowed to study part-time."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "Not change to part-time study. Under The National Code students on student visa are not allowed to study part-time."
+      ],
+      "is_correct": true,
+      "full_response": "Not continue on their current student visa because they must maintain enrolment in a full-time registered course.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/](https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/)\n2. [https://www.icef.com/academy/topic/c5-8-ability-to-work/](https://www.icef.com/academy/topic/c5-8-ability-to-work/)\n3. [https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/](https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/)\n4. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n5. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n6. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n7. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n8. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n9. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n10. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n11. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n"
+    },
+    {
+      "question": "You recruited a student to study in a Foundation Year Program. The student has not been attending classes. The student is on a student visa and has been absent from class for two weeks now. The Institution should:",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "Contact you immediately and ask for help in locating the student."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "Report the student without seeking to find out where the student is."
+      ],
+      "is_correct": false,
+      "full_response": "The education provider must have documented policies and procedures stating whether they will consider compassionate and compelling circumstances. The provider must also issue the student a written notification of their intention to report the student to DHA, informing the student they have 20 working days to access the provider\u2019s complaints and appeals process. Once this timeframe has lapsed or the appeals process has been finalized and found in favor of the provider, the provider reports the breach of the student visa condition using PRISMS. The student will then receive a notice informing them that they must attend at an Immigration office within 28 days, or their visa may be cancelled.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n2. [https://www.icef.com/academy/topic/c3-1-before-arriving-in-australia/](https://www.icef.com/academy/topic/c3-1-before-arriving-in-australia/)\n3. [https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/](https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/)\n4. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n5. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n6. [https://www.icef.com/academy/topic/d3-6-student-management/](https://www.icef.com/academy/topic/d3-6-student-management/)\n7. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n8. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n9. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n10. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n11. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n"
+    },
+    {
+      "question": "A 17-year-old student will study in Australia. Under the relevant student visa conditions the student must:",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "Live with a relative over 21, their parent or guardian or in accommodation approved by the education provider;"
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "Live with a relative over 21, their parent or guardian or in accommodation approved by the education provider;"
+      ],
+      "is_correct": true,
+      "full_response": "If the student is under 18, they must maintain welfare arrangements with either a parent, close relative, or legal custodian. If welfare is approved through the education provider, the education provider must approve arrangements, including when arrangements change.\n\n\nSources:\n1. [https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/](https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/)\n2. [https://www.icef.com/academy/topic/b8-3-specific-requirements-in-particular-cases/](https://www.icef.com/academy/topic/b8-3-specific-requirements-in-particular-cases/)\n3. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n4. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n5. [https://www.icef.com/academy/topic/b8-2-requirements-for-students-under-18/](https://www.icef.com/academy/topic/b8-2-requirements-for-students-under-18/)\n6. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n7. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n8. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n9. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n10. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n11. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n"
+    },
+    {
+      "question": "A student who gained a student visa under Streamlined arrangements:",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "must remain in an AQF course of the same or higher level or they may need to apply for a new student visa."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "must remain in an AQF course of the same or higher level or they may need to apply for a new student visa."
+      ],
+      "is_correct": true,
+      "full_response": "Students under the Streamlined evidentiary requirements are generally able to satisfy the Department of their financial capacity with a declaration. They are also generally not required to provide evidence of their English language proficiency. However, the Department of Home Affairs retains the discretion to seek further evidence where appropriate.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n2. [https://www.icef.com/academy/topic/b8-1-the-student-visa-application-process/](https://www.icef.com/academy/topic/b8-1-the-student-visa-application-process/)\n3. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n4. [https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/](https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/)\n5. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n6. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n7. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n8. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n9. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n10. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n11. [https://www.icef.com/academy/topic/a8-8-creative-industries/](https://www.icef.com/academy/topic/a8-8-creative-industries/)\n"
+    },
+    {
+      "question": "A prospective student is going to visit some relatives in Australia for 2 months. While she is in Australia she thinks she may study English. Her tourist visa has the condition 8201 on it. You inform the student that this means:",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "She is not able to engage in any study or training for more than three months."
+      ],
+      "extracted_indices": [],
+      "extracted_answers": [],
+      "is_correct": false,
+      "full_response": "The context does not provide an explanation of condition 8201.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b8-2-requirements-for-students-under-18/](https://www.icef.com/academy/topic/b8-2-requirements-for-students-under-18/)\n2. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n3. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n4. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n5. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n6. [https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/](https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/)\n7. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n8. [https://www.icef.com/academy/topic/c5-8-ability-to-work/](https://www.icef.com/academy/topic/c5-8-ability-to-work/)\n9. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n10. [https://www.icef.com/academy/topic/b8-3-specific-requirements-in-particular-cases/](https://www.icef.com/academy/topic/b8-3-specific-requirements-in-particular-cases/)\n11. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n"
+    },
+    {
+      "question": "The parents of a student you recruited to study in Australia call you. Their son is very ill and has been taken to hospital. He cannot attend classes and the parents are not sure what to do. You seek advice from your liaison at the student\u2019s school regarding his attendance and then tell his parents:",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "To make sure their son gets a medical certificate from the doctor or hospital so that he can show this to the institution (and DHA if necessary) to prove he has been sick."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "To make sure their son gets a medical certificate from the doctor or hospital so that he can show this to the institution (and DHA if necessary) to prove he has been sick."
+      ],
+      "is_correct": true,
+      "full_response": "Medical authorities may not agree to communicate with you or the education provider. However, medical authorities will always communicate with the student\u2019s parents, unless the student has expressed otherwise. It is better to work closely with the education provider because they are in a better position to obtain information, especially if you live outside of Australia.\n\n\nSources:\n1. [https://www.icef.com/academy/lessons/c3-student-client-management/](https://www.icef.com/academy/lessons/c3-student-client-management/)\n2. [https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/](https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/)\n3. [https://www.icef.com/academy/topic/c3-1-before-arriving-in-australia/](https://www.icef.com/academy/topic/c3-1-before-arriving-in-australia/)\n4. [https://www.icef.com/academy/topic/d3-6-student-management/](https://www.icef.com/academy/topic/d3-6-student-management/)\n5. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n6. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n7. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n8. [https://www.icef.com/academy/topic/b10-2-when-is-privacy-a-concern/](https://www.icef.com/academy/topic/b10-2-when-is-privacy-a-concern/)\n9. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n10. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n11. [https://www.icef.com/academy/topic/b6-4-reporting-students-using-prisms/](https://www.icef.com/academy/topic/b6-4-reporting-students-using-prisms/)\n"
+    },
+    {
+      "question": "One of the other counsellors in your office comes to ask your advice on the following situation:\nA student will study in an ELICOS program for 6 months and then enter into a Masters of Biotechnology course. The student has paid her tuition fees and the Overseas Student Health Cover (OSHC) for the ELICOS course. She wants to pay her tuition fees for the Masters course but the university is asking her to also pay OSHC. The counsellor is unsure about what the student should do about their OSHC for the Masters course.\nYou advise the counsellor that the student:",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "needs to take out OSHC for the Masters course too before applying for a student visa as it is compulsory for international students to have health insurance for all courses in a package of offers while studying in Australia."
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "needs to take out OSHC for the Masters course too before applying for a student visa as it is compulsory for international students to have health insurance for all courses in a package of offers while studying in Australia."
+      ],
+      "is_correct": true,
+      "full_response": "The student needs to have OSHC for the entire period from their arrival date in Australia to the student visa's expiration date. The university is correct to ask her to pay OSHC for the Masters course.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/d3-1-honesty-of-employees/](https://www.icef.com/academy/topic/d3-1-honesty-of-employees/)\n2. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n3. [https://www.icef.com/academy/topic/b3-2-protection-for-international-students/](https://www.icef.com/academy/topic/b3-2-protection-for-international-students/)\n4. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n5. [https://www.icef.com/academy/topic/d3-6-student-management/](https://www.icef.com/academy/topic/d3-6-student-management/)\n6. [https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/](https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/)\n7. [https://www.icef.com/academy/topic/d2-3-ethics/](https://www.icef.com/academy/topic/d2-3-ethics/)\n8. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n9. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n10. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n11. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n"
+    },
+    {
+      "question": "The parents of a 21-year-old student ask you to contact the institution their daughter is studying in to obtain her results. You contact the institution and ask if you can have a copy of her academic results. The institution should:",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "Only give the results to the parents through you after asking the student for permission to do this and obtaining this permission in writing as privacy laws require."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "Only give the results to the parents through you after asking the student for permission to do this and obtaining this permission in writing as privacy laws require."
+      ],
+      "is_correct": true,
+      "full_response": "Decline to provide the information unless the student gives consent in writing.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b10-2-when-is-privacy-a-concern/](https://www.icef.com/academy/topic/b10-2-when-is-privacy-a-concern/)\n2. [https://www.icef.com/academy/topic/b10-3-student-complaints-and-appeals/](https://www.icef.com/academy/topic/b10-3-student-complaints-and-appeals/)\n3. [https://www.icef.com/academy/topic/c7-1-dealing-with-student-documents/](https://www.icef.com/academy/topic/c7-1-dealing-with-student-documents/)\n4. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n5. [https://www.icef.com/academy/topic/b10-3-student-complaints-and-appeals/](https://www.icef.com/academy/topic/b10-3-student-complaints-and-appeals/)\n6. [https://www.icef.com/academy/topic/b10-1-what-should-an-agent-know-about-privacy/](https://www.icef.com/academy/topic/b10-1-what-should-an-agent-know-about-privacy/)\n7. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n8. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n9. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n10. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n11. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n"
+    },
+    {
+      "question": "When a student has been reported to DHA by the education provider, DHA will send a letter to the student asking them to explain their circumstances to DHA. How long does the student have to contact DHA and make an appointment?",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "28 days"
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "28 days"
+      ],
+      "is_correct": true,
+      "full_response": "The student has 28 days to contact DHA and make an appointment at a DHA office.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n2. [https://www.icef.com/academy/topic/b6-4-reporting-students-using-prisms/](https://www.icef.com/academy/topic/b6-4-reporting-students-using-prisms/)\n3. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n4. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n5. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n6. [https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/](https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/)\n7. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n8. [https://www.icef.com/academy/topic/b8-4-examples-of-integrity-concerns-for-dha/](https://www.icef.com/academy/topic/b8-4-examples-of-integrity-concerns-for-dha/)\n9. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n10. [https://www.icef.com/academy/lessons/b8-student-visas-application-processes-specific-requirements-and-integrity-concerns/](https://www.icef.com/academy/lessons/b8-student-visas-application-processes-specific-requirements-and-integrity-concerns/)\n11. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n"
+    },
+    {
+      "question": "A student visa in Australia:",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "Is issued by DHA under the Migration Act 1958."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "Is issued by DHA under the Migration Act 1958."
+      ],
+      "is_correct": true,
+      "full_response": "Here are some key points regarding student visas in Australia:\n\n*   Individuals can study in Australia on a tourist visa for a maximum of three months or on a working holiday visa for a maximum of four months. For longer periods of study, a student visa is required.\n*   Students studying Australian programs outside of Australia do not need a student visa.\n*   When applying for a student visa, a student may need to undergo health examinations.\n*   Adequate health insurance is a mandatory requirement.\n*   There are English language proficiency requirements, but some students are exempt.\n*   Student visa holders need to meet certain criteria set out in migration legislation.\n*   If working as an agent in Australia, you must be a Registered Migration Agent (RMA) to provide immigration advice.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/](https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/)\n2. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n3. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n4. [https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/](https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/)\n5. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n6. [https://www.icef.com/academy/topic/a4-4-entry-points-typical-costs-and-accommodation-options/](https://www.icef.com/academy/topic/a4-4-entry-points-typical-costs-and-accommodation-options/)\n7. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n8. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n9. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n10. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n11. [https://www.icef.com/academy/topic/a8-8-creative-industries/](https://www.icef.com/academy/topic/a8-8-creative-industries/)\n"
+    },
+    {
+      "question": "Which of the following is a way of keeping updated and advising students on changes in legislation and regulations relating to international education:",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "Both B and C"
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "Both B and C"
+      ],
+      "is_correct": true,
+      "full_response": "To stay informed of changes, you can check the Department of Home Affairs site or International Education site for updates and clarification.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b2-2-the-national-code-of-practice-2018/](https://www.icef.com/academy/topic/b2-2-the-national-code-of-practice-2018/)\n2. [https://www.icef.com/academy/lessons/b1-overview/](https://www.icef.com/academy/lessons/b1-overview/)\n3. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n4. [https://www.icef.com/academy/topic/a7-9-internationalisation-in-higher-education-in-australia/](https://www.icef.com/academy/topic/a7-9-internationalisation-in-higher-education-in-australia/)\n5. [https://www.icef.com/academy/topic/c4-3-programs/](https://www.icef.com/academy/topic/c4-3-programs/)\n6. [https://www.icef.com/academy/topic/a4-5-advantages-to-international-students/](https://www.icef.com/academy/topic/a4-5-advantages-to-international-students/)\n7. [https://www.icef.com/academy/lessons/c8-extension-useful-information/](https://www.icef.com/academy/lessons/c8-extension-useful-information/)\n8. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n9. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n10. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n11. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n"
+    },
+    {
+      "question": "The institution that you represent has a refund policy that states that all money is refundable if the student cannot commence studies due to health reasons. Which of the following could be considered a \u2018health\u2019 reason:",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "Student is hurt in a car accident"
+      ],
+      "extracted_indices": [],
+      "extracted_answers": [],
+      "is_correct": false,
+      "full_response": "I am sorry, but this question cannot be answered from the given context.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n2. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n3. [https://www.icef.com/academy/topic/a8-4-health/](https://www.icef.com/academy/topic/a8-4-health/)\n4. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n5. [https://www.icef.com/academy/topic/a8-4-health/](https://www.icef.com/academy/topic/a8-4-health/)\n6. [https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/](https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/)\n7. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n8. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n9. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n10. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n11. [https://www.icef.com/academy/topic/a8-8-creative-industries/](https://www.icef.com/academy/topic/a8-8-creative-industries/)\n"
+    },
+    {
+      "question": "The basic guidelines that describe the work rights students have while on a student visa are:",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "A student can work up to 40 hours per fortnight when their program is in session and for unlimited hours during vacation times."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "A student can work up to 40 hours per fortnight when their program is in session and for unlimited hours during vacation times."
+      ],
+      "is_correct": true,
+      "full_response": "Student visa holders are granted permission to work, eliminating the need to apply separately upon arrival in Australia. As of July 1, 2023, students can work up to 48 hours per fortnight during course sessions and unlimited hours during recognized school breaks. A student\u2019s family member can work up to 48 hours per fortnight once the student has commenced their course. If the student is enrolled in a master's or doctorate degree, the family member may work unlimited hours.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n2. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n3. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n4. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n5. [https://www.icef.com/academy/topic/c5-8-ability-to-work/](https://www.icef.com/academy/topic/c5-8-ability-to-work/)\n6. [https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/](https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/)\n7. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n8. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n9. [https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/](https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/)\n10. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n11. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n"
+    },
+    {
+      "question": "A student visa issued with the condition 8202 means:",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "A student must be enrolled as a full-time student in a registered program."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "A student must be enrolled as a full-time student in a registered program."
+      ],
+      "is_correct": true,
+      "full_response": "The student needs to maintain enrollment in a full-time registered course at the same or higher level than the course for which the visa was granted. They also need to meet the provider\u2019s requirements for attendance and course progress.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n2. [https://www.icef.com/academy/topic/c5-8-ability-to-work/](https://www.icef.com/academy/topic/c5-8-ability-to-work/)\n3. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n4. [https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/](https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/)\n5. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n6. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n7. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n8. [https://www.icef.com/academy/topic/b8-2-requirements-for-students-under-18/](https://www.icef.com/academy/topic/b8-2-requirements-for-students-under-18/)\n9. [https://www.icef.com/academy/topic/b8-3-specific-requirements-in-particular-cases/](https://www.icef.com/academy/topic/b8-3-specific-requirements-in-particular-cases/)\n10. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n11. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n"
+    },
+    {
+      "question": "A student visa issued with the condition 8533 means:",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "The student must keep the education institution informed of their current address in Australia. They have 7 days to notify the institution of any changes."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "The student must keep the education institution informed of their current address in Australia. They have 7 days to notify the institution of any changes."
+      ],
+      "is_correct": true,
+      "full_response": "The student must keep the education institution informed of their current address in Australia and notify them of any changes within 7 days.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n2. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n3. [https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/](https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/)\n4. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n5. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n6. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n7. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n8. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n9. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n10. [https://www.icef.com/academy/topic/b6-4-reporting-students-using-prisms/](https://www.icef.com/academy/topic/b6-4-reporting-students-using-prisms/)\n11. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n"
+    },
+    {
+      "question": "If a student is on a package of courses with the principal course being a bachelor degree, when they have finished 6 months of their first course (and ELICOS program) they will:",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "be able to change to another institution if they receive a letter of release from the institution offering the Bachelor degree because this is the principal course."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "be able to change to another institution if they receive a letter of release from the institution offering the Bachelor degree because this is the principal course."
+      ],
+      "is_correct": true,
+      "full_response": "Need permission from their current education provider to transfer to another provider.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b7-4-packaging-arrangements-and-visa-duration/](https://www.icef.com/academy/topic/b7-4-packaging-arrangements-and-visa-duration/)\n2. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n3. [https://www.icef.com/academy/topic/a7-4-courses-and-qualifications/](https://www.icef.com/academy/topic/a7-4-courses-and-qualifications/)\n4. [https://www.icef.com/academy/topic/a5-1-introduction-to-elicos/](https://www.icef.com/academy/topic/a5-1-introduction-to-elicos/)\n5. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n6. [https://www.icef.com/academy/topic/a5-2-types-of-courses/](https://www.icef.com/academy/topic/a5-2-types-of-courses/)\n7. [https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/](https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/)\n8. [https://www.icef.com/academy/topic/a5-4-entry-points-and-costs/](https://www.icef.com/academy/topic/a5-4-entry-points-and-costs/)\n9. [https://www.icef.com/academy/topic/a7-4-courses-and-qualifications/](https://www.icef.com/academy/topic/a7-4-courses-and-qualifications/)\n10. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n11. [https://www.icef.com/academy/topic/b8-3-specific-requirements-in-particular-cases/](https://www.icef.com/academy/topic/b8-3-specific-requirements-in-particular-cases/)\n"
+    },
+    {
+      "question": "A student who has studied a Bachelor\u2019s degree in Australia for 3 years:",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "will be able to apply for a Temporary Graduate Visa to work in Australia for up to 2 years following their Graduation"
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "will be able to apply for a Temporary Graduate Visa to work in Australia for up to 2 years following their Graduation"
+      ],
+      "is_correct": true,
+      "full_response": "This student may be eligible for a Temporary Graduate visa (subclass 485) under the Post-Study Work stream, which grants a 2-year work visa.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n2. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n3. [https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/](https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/)\n4. [https://www.icef.com/academy/topic/a7-4-courses-and-qualifications/](https://www.icef.com/academy/topic/a7-4-courses-and-qualifications/)\n5. [https://www.icef.com/academy/topic/a7-6-entry-points-entry-requirements-and-costs/](https://www.icef.com/academy/topic/a7-6-entry-points-entry-requirements-and-costs/)\n6. [https://www.icef.com/academy/topic/a7-4-courses-and-qualifications/](https://www.icef.com/academy/topic/a7-4-courses-and-qualifications/)\n7. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n8. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n9. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n10. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n11. [https://www.icef.com/academy/topic/a8-8-creative-industries/](https://www.icef.com/academy/topic/a8-8-creative-industries/)\n"
+    },
+    {
+      "question": "You recruited an 18 year old student to study in a Foundation program in Australia. She has recently moved out of her homestay and into an apartment with some friends. Whose responsibility is it to ensure that the education provider has her current address?",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "The student is responsible for informing her education provider of her change of address."
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "The student is responsible for informing her education provider of her change of address."
+      ],
+      "is_correct": true,
+      "full_response": "It is the student's responsibility to keep the education provider informed of their current address in Australia. If the address changes, the student must inform the education provider within 7 days.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/d3-6-student-management/](https://www.icef.com/academy/topic/d3-6-student-management/)\n2. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n3. [https://www.icef.com/academy/topic/b8-2-requirements-for-students-under-18/](https://www.icef.com/academy/topic/b8-2-requirements-for-students-under-18/)\n4. [https://www.icef.com/academy/topic/a4-4-entry-points-typical-costs-and-accommodation-options/](https://www.icef.com/academy/topic/a4-4-entry-points-typical-costs-and-accommodation-options/)\n5. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n6. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n7. [https://www.icef.com/academy/topic/c5-7-accommodation-options/](https://www.icef.com/academy/topic/c5-7-accommodation-options/)\n8. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n9. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n10. [https://www.icef.com/academy/topic/b10-3-student-complaints-and-appeals/](https://www.icef.com/academy/topic/b10-3-student-complaints-and-appeals/)\n11. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n"
+    },
+    {
+      "question": "When a student applies for a student visa which of the following general requirements will a student NOT need to provide with the application?",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "Knowledge of Australian culture"
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "Knowledge of Australian culture"
+      ],
+      "is_correct": true,
+      "full_response": "Under the streamlined evidentiary requirements, students generally won't need to provide evidence of their financial capacity or English proficiency with their visa application, although the DHA retains the right to request financial evidence if there are concerns.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b8-1-the-student-visa-application-process/](https://www.icef.com/academy/topic/b8-1-the-student-visa-application-process/)\n2. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n3. [https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/](https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/)\n4. [https://www.icef.com/academy/topic/b8-3-specific-requirements-in-particular-cases/](https://www.icef.com/academy/topic/b8-3-specific-requirements-in-particular-cases/)\n5. [https://www.icef.com/academy/lessons/b8-student-visas-application-processes-specific-requirements-and-integrity-concerns/](https://www.icef.com/academy/lessons/b8-student-visas-application-processes-specific-requirements-and-integrity-concerns/)\n6. [https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/](https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/)\n7. [https://www.icef.com/academy/topic/b8-1-the-student-visa-application-process/](https://www.icef.com/academy/topic/b8-1-the-student-visa-application-process/)\n8. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n9. [https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/](https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/)\n10. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n11. [https://www.icef.com/academy/topic/b8-3-specific-requirements-in-particular-cases/](https://www.icef.com/academy/topic/b8-3-specific-requirements-in-particular-cases/)\n"
+    },
+    {
+      "question": "A student you recruited to study in Australia is studying a three-year Bachelor of Arts program. In her last semester the student was admitted to hospital and missed 4 weeks. She feels that she is not able to finish her program and she would like to extend her studies by one more semester. You inform the student that she:",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "Can apply for an extension to her student visa. The student should make an appointment with DHA to discuss the issue and bring documents with her such as her passport and a copy of her hospital records."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "Can apply for an extension to her student visa. The student should make an appointment with DHA to discuss the issue and bring documents with her such as her passport and a copy of her hospital records."
+      ],
+      "is_correct": true,
+      "full_response": "As an agent, you can only advise the student of their options, liaise with family members if appropriate, and/or redirect them to sources of support. For example, you can refer them to student support services for advice.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b7-4-packaging-arrangements-and-visa-duration/](https://www.icef.com/academy/topic/b7-4-packaging-arrangements-and-visa-duration/)\n2. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n3. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n4. [https://www.icef.com/academy/topic/d3-6-student-management/](https://www.icef.com/academy/topic/d3-6-student-management/)\n5. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n6. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n7. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n8. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n9. [https://www.icef.com/academy/topic/c3-1-before-arriving-in-australia/](https://www.icef.com/academy/topic/c3-1-before-arriving-in-australia/)\n10. [https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/](https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/)\n11. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n"
+    },
+    {
+      "question": "Which of the following statements is TRUE about student complaints?",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "A student must access the institution\u2019s internal complaint process before they contact the OSO or State Ombudsman."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "Students only the have the right to complain in certain, specified circumstances."
+      ],
+      "is_correct": false,
+      "full_response": "Students have a right to complain if they do not receive the services they pay for. An agent may be asked to help a student understand the complaint process, or the agent may be the subject of the complaint. Common complaints include refund and fee disputes, external appeals for transfer/release letters, and unsatisfactory attendance or course progress. The OSO does not investigate complaints made more than 12 months after the incident.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b10-3-student-complaints-and-appeals/](https://www.icef.com/academy/topic/b10-3-student-complaints-and-appeals/)\n2. [https://www.icef.com/academy/topic/b10-3-student-complaints-and-appeals/](https://www.icef.com/academy/topic/b10-3-student-complaints-and-appeals/)\n3. [https://www.icef.com/academy/lessons/b10-privacy-student-complaints-and-appeals/](https://www.icef.com/academy/lessons/b10-privacy-student-complaints-and-appeals/)\n4. [https://www.icef.com/academy/topic/b10-2-when-is-privacy-a-concern/](https://www.icef.com/academy/topic/b10-2-when-is-privacy-a-concern/)\n5. [https://www.icef.com/academy/topic/b10-1-what-should-an-agent-know-about-privacy/](https://www.icef.com/academy/topic/b10-1-what-should-an-agent-know-about-privacy/)\n6. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n7. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n8. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n9. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n10. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n11. [https://www.icef.com/academy/topic/a8-8-creative-industries/](https://www.icef.com/academy/topic/a8-8-creative-industries/)\n"
+    },
+    {
+      "question": "Which of the following proposed course changes might require a student to obtain a new visa?",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "The student is studying in a Bachelor of Business and wishes to change to a Certificate IV of Business."
+      ],
+      "extracted_indices": [
+        2,
+        4
+      ],
+      "extracted_answers": [
+        "The student is studying in a Bachelor of Business and wishes to change to a Certificate IV of Business.",
+        "The student is studying in an ELICOS program and wishes to change to Diploma in Business."
+      ],
+      "is_correct": false,
+      "full_response": "A student might need to apply for a new student visa if they want to change to a program at a lower AQF level, or if the new course they want to take is longer than their original course and their current visa is expiring.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n2. [https://www.icef.com/academy/lessons/b1-overview/](https://www.icef.com/academy/lessons/b1-overview/)\n3. [https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/](https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/)\n4. [https://www.icef.com/academy/topic/b7-4-packaging-arrangements-and-visa-duration/](https://www.icef.com/academy/topic/b7-4-packaging-arrangements-and-visa-duration/)\n5. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n6. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n7. [https://www.icef.com/academy/topic/b6-4-reporting-students-using-prisms/](https://www.icef.com/academy/topic/b6-4-reporting-students-using-prisms/)\n8. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n9. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n10. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n11. [https://www.icef.com/academy/topic/a8-8-creative-industries/](https://www.icef.com/academy/topic/a8-8-creative-industries/)\n"
+    },
+    {
+      "question": "When applying for a student visa the term \u2018principal course\u2019 means:",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "That this is the course the student intends to take at the highest level."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "That this is the course the student intends to take at the highest level."
+      ],
+      "is_correct": true,
+      "full_response": "The principal course refers to the course that the student intends to undertake in Australia at the highest level.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b7-4-packaging-arrangements-and-visa-duration/](https://www.icef.com/academy/topic/b7-4-packaging-arrangements-and-visa-duration/)\n2. [https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/](https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/)\n3. [https://www.icef.com/academy/lessons/b1-overview/](https://www.icef.com/academy/lessons/b1-overview/)\n4. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n5. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n6. [https://www.icef.com/academy/topic/a5-2-types-of-courses/](https://www.icef.com/academy/topic/a5-2-types-of-courses/)\n7. [https://www.icef.com/academy/topic/a5-2-types-of-courses/](https://www.icef.com/academy/topic/a5-2-types-of-courses/)\n8. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n9. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n10. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n11. [https://www.icef.com/academy/topic/a8-8-creative-industries/](https://www.icef.com/academy/topic/a8-8-creative-industries/)\n"
+    },
+    {
+      "question": "Standard 1 of the National Code 2018 details requirements for marketing and student information that education providers must follow. Which of the following is False?",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "An education provider does not need to inform students about the duration, qualification or fees that will apply to them if they study."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "An education provider does not need to inform students about the duration, qualification or fees that will apply to them if they study."
+      ],
+      "is_correct": true,
+      "full_response": "This standard sets out that registered providers must uphold the integrity and reputation of Australia\u2019s education industry by ensuring the marketing of their courses and services is not false or misleading.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b2-2-the-national-code-of-practice-2018/](https://www.icef.com/academy/topic/b2-2-the-national-code-of-practice-2018/)\n2. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n3. [https://www.icef.com/academy/topic/b4-3-marketing-and-agents/](https://www.icef.com/academy/topic/b4-3-marketing-and-agents/)\n4. [https://www.icef.com/academy/lessons/b4-the-national-code-of-practice/](https://www.icef.com/academy/lessons/b4-the-national-code-of-practice/)\n5. [https://www.icef.com/academy/topic/b2-2-the-national-code-of-practice-2018/](https://www.icef.com/academy/topic/b2-2-the-national-code-of-practice-2018/)\n6. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n7. [https://www.icef.com/academy/lessons/b11-extension-agency-agreements-and-commission/](https://www.icef.com/academy/lessons/b11-extension-agency-agreements-and-commission/)\n8. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n9. [https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/](https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/)\n10. [https://www.icef.com/academy/topic/b10-1-what-should-an-agent-know-about-privacy/](https://www.icef.com/academy/topic/b10-1-what-should-an-agent-know-about-privacy/)\n11. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n"
+    },
+    {
+      "question": "Which of the following students being assessed under regular evidentiary requirements would NOT need to present an English proficiency test score to obtain a student visa?",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "A student who has completed two years of study in Australia prior to applying for a visa."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "A student who has completed two years of study in Australia prior to applying for a visa."
+      ],
+      "is_correct": true,
+      "full_response": "A student would not need to present an English test score if they are an ELICOS, Schools, Secondary Exchange, or Postgraduate Research Student; have completed a Senior Secondary Certificate of Education in English in Australia within the last two years; are a Foreign Affairs and Defence sponsored student; are a citizen of the United Kingdom, United States of America, New Zealand, Canada, or Ireland; or have studied for more than five years in English in Australia, United Kingdom, United States of America, New Zealand, Canada, Ireland, or South Africa.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n2. [https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/](https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/)\n3. [https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/](https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/)\n4. [https://www.icef.com/academy/topic/b8-1-the-student-visa-application-process/](https://www.icef.com/academy/topic/b8-1-the-student-visa-application-process/)\n5. [https://www.icef.com/academy/topic/b8-4-examples-of-integrity-concerns-for-dha/](https://www.icef.com/academy/topic/b8-4-examples-of-integrity-concerns-for-dha/)\n6. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n7. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n8. [https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/](https://www.icef.com/academy/lessons/b7-student-visas-basic-requirements-and-processes/)\n9. [https://www.icef.com/academy/topic/a5-3-english-language-tests/](https://www.icef.com/academy/topic/a5-3-english-language-tests/)\n10. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n11. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n"
+    },
+    {
+      "question": "Which of the following is NOT one of the three main purposes of The ESOS Act 2000:",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "To protect the interests of domestic students."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "To protect the interests of domestic students."
+      ],
+      "is_correct": true,
+      "full_response": "The context does not contain the answer to this question.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b2-1-the-esos-act/](https://www.icef.com/academy/topic/b2-1-the-esos-act/)\n2. [https://www.icef.com/academy/topic/b2-3-cricos/](https://www.icef.com/academy/topic/b2-3-cricos/)\n3. [https://www.icef.com/academy/lessons/b3-the-esos-act/](https://www.icef.com/academy/lessons/b3-the-esos-act/)\n4. [https://www.icef.com/academy/topic/b2-2-the-national-code-of-practice-2018/](https://www.icef.com/academy/topic/b2-2-the-national-code-of-practice-2018/)\n5. [https://www.icef.com/academy/topic/b3-1-responsible-behaviour/](https://www.icef.com/academy/topic/b3-1-responsible-behaviour/)\n6. [https://www.icef.com/academy/topic/a5-1-introduction-to-elicos/](https://www.icef.com/academy/topic/a5-1-introduction-to-elicos/)\n7. [https://www.icef.com/academy/lessons/b1-overview/](https://www.icef.com/academy/lessons/b1-overview/)\n8. [https://www.icef.com/academy/lessons/b2-an-introduction-to-regulations-and-legislation/](https://www.icef.com/academy/lessons/b2-an-introduction-to-regulations-and-legislation/)\n9. [https://www.icef.com/academy/topic/b3-3-visitor-working-holiday-and-work-holiday-visas-and-study/](https://www.icef.com/academy/topic/b3-3-visitor-working-holiday-and-work-holiday-visas-and-study/)\n10. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n11. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n"
+    },
+    {
+      "question": "One of the counsellors in your office is undertaking training about the Australian education system. They are unsure about some of the information they have read. Which of the following would you advise them is True?",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "A student should attend at least 80% of all scheduled lessons in an ELICOS College."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "A student should attend at least 80% of all scheduled lessons in an ELICOS College."
+      ],
+      "is_correct": true,
+      "full_response": "Australian schools are becoming world leaders in the application of technology to education and are well-equipped with computers, digital data and communication links, film and television, satellite signals to remote locations, internet access points, and online courses and materials. Also, Australia is an international leader in safeguards and support services for international students, providing specialist services that are well resourced and quality assured.\n\n\nSources:\n1. [https://www.icef.com/academy/lessons/a4-australian-schools/](https://www.icef.com/academy/lessons/a4-australian-schools/)\n2. [https://www.icef.com/academy/lessons/c1-overview/](https://www.icef.com/academy/lessons/c1-overview/)\n3. [https://www.icef.com/academy/lessons/a3-australian-education/](https://www.icef.com/academy/lessons/a3-australian-education/)\n4. [https://www.icef.com/academy/topic/c5-6-student-support-services/](https://www.icef.com/academy/topic/c5-6-student-support-services/)\n5. [https://www.icef.com/academy/topic/a4-5-advantages-to-international-students/](https://www.icef.com/academy/topic/a4-5-advantages-to-international-students/)\n6. [https://www.icef.com/academy/lessons/a7-university-education-in-australia/](https://www.icef.com/academy/lessons/a7-university-education-in-australia/)\n7. [https://www.icef.com/academy/topic/b4-3-marketing-and-agents/](https://www.icef.com/academy/topic/b4-3-marketing-and-agents/)\n8. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n9. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n10. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n11. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n"
+    },
+    {
+      "question": "Unsatisfactory academic performance means:",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "That a student has failed the majority of their subjects and would be unable to continue studying in their current course."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "That a student has failed the majority of their subjects and would be unable to continue studying in their current course."
+      ],
+      "is_correct": true,
+      "full_response": "A student must achieve satisfactory academic results, and if they don't, they need to follow the relevant appeal process. If the appeal is unsuccessful, the education provider must have documented policies and procedures for monitoring course progress and determining when a student has failed to make satisfactory course progress. The provider must also issue the student a written notification of their intention to report the student to DHA and inform the student they have 20 working days to access the provider\u2019s complaints and appeals process. Once this timeframe has lapsed or the appeals process has been finalised in favor of the provider, the provider reports the visa breach using PRISMS.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/](https://www.icef.com/academy/topic/b9-2-meeting-student-visa-conditions/)\n2. [https://www.icef.com/academy/topic/c7-3-qualification-authenticity/](https://www.icef.com/academy/topic/c7-3-qualification-authenticity/)\n3. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n4. [https://www.icef.com/academy/topic/a4-3-secondary-school-qualifications/](https://www.icef.com/academy/topic/a4-3-secondary-school-qualifications/)\n5. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n6. [https://www.icef.com/academy/topic/a8-9-humanities-social-science-and-education/](https://www.icef.com/academy/topic/a8-9-humanities-social-science-and-education/)\n7. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n8. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n9. [https://www.icef.com/academy/topic/a8-8-creative-industries/](https://www.icef.com/academy/topic/a8-8-creative-industries/)\n10. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n11. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n"
+    },
+    {
+      "question": "Which of the following statements about student visas is True?",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "When the visa application states that an individual must be of good character, this means that they must have no criminal record or poor previous visa compliance record."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "When the visa application states that an individual must be of good character, this means that they must have no criminal record or poor previous visa compliance record."
+      ],
+      "is_correct": true,
+      "full_response": "Student visa holders are granted permission to work and do not need to apply separately for it.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n2. [https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/](https://www.icef.com/academy/topic/b2-4-the-migration-act-1958/)\n3. [https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/](https://www.icef.com/academy/lessons/b9-student-visas-visa-conditions-and-student-responsibilities/)\n4. [https://www.icef.com/academy/topic/b9-1-visa-conditions/](https://www.icef.com/academy/topic/b9-1-visa-conditions/)\n5. [https://www.icef.com/academy/topic/b8-1-the-student-visa-application-process/](https://www.icef.com/academy/topic/b8-1-the-student-visa-application-process/)\n6. [https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/](https://www.icef.com/academy/topic/b7-2-evidentiary-framework-and-student-visa-processing/)\n7. [https://www.icef.com/academy/lessons/b8-student-visas-application-processes-specific-requirements-and-integrity-concerns/](https://www.icef.com/academy/lessons/b8-student-visas-application-processes-specific-requirements-and-integrity-concerns/)\n8. [https://www.icef.com/academy/topic/b9-3-work-rights-for-students/](https://www.icef.com/academy/topic/b9-3-work-rights-for-students/)\n9. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n10. [https://www.icef.com/academy/topic/b9-4-visas-following-study/](https://www.icef.com/academy/topic/b9-4-visas-following-study/)\n11. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n"
+    },
+    {
+      "question": "As an education agent you recruited a 17-year- old student to study in an English program. The parents of the student have asked you to provide them with the student\u2019s results. You ask the English College to give you these results. They:",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "Give you the student\u2019s results as the student is under 18 and this is allowed by law."
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "Cannot give you the student\u2019s results unless the student gives permission."
+      ],
+      "is_correct": false,
+      "full_response": "Cannot provide the results unless the student gives his/her consent in writing.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/c7-1-dealing-with-student-documents/](https://www.icef.com/academy/topic/c7-1-dealing-with-student-documents/)\n2. [https://www.icef.com/academy/topic/b4-3-marketing-and-agents/](https://www.icef.com/academy/topic/b4-3-marketing-and-agents/)\n3. [https://www.icef.com/academy/lessons/c7-student-documents/](https://www.icef.com/academy/lessons/c7-student-documents/)\n4. [https://www.icef.com/academy/topic/b10-2-when-is-privacy-a-concern/](https://www.icef.com/academy/topic/b10-2-when-is-privacy-a-concern/)\n5. [https://www.icef.com/academy/topic/d2-3-ethics/](https://www.icef.com/academy/topic/d2-3-ethics/)\n6. [https://www.icef.com/academy/lessons/b11-extension-agency-agreements-and-commission/](https://www.icef.com/academy/lessons/b11-extension-agency-agreements-and-commission/)\n7. [https://www.icef.com/academy/lessons/b11-extension-agency-agreements-and-commission/](https://www.icef.com/academy/lessons/b11-extension-agency-agreements-and-commission/)\n8. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n9. [https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/](https://www.icef.com/academy/topic/c3-2-after-arriving-in-australia/)\n10. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n11. [https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/](https://www.icef.com/academy/topic/b7-3-streamlined-and-regular-evidentiary-requirements/)\n"
+    },
+    {
+      "question": "On CRICOS:",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "The course code will be different for each course that the education provider offers depending on the length and topic of the course. The provider code will always be the same for a certain education provider."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "The course code will be different for each course that the education provider offers depending on the length and topic of the course. The provider code will always be the same for a certain education provider."
+      ],
+      "is_correct": true,
+      "full_response": "Institution and course details are available, and no registration is needed to access this information.\n\n\nSources:\n1. [https://www.icef.com/academy/topic/b5-5-information-provided-by-cricos/](https://www.icef.com/academy/topic/b5-5-information-provided-by-cricos/)\n2. [https://www.icef.com/academy/topic/b5-4-institution-search/](https://www.icef.com/academy/topic/b5-4-institution-search/)\n3. [https://www.icef.com/academy/topic/b6-1-access-to-prisms/](https://www.icef.com/academy/topic/b6-1-access-to-prisms/)\n4. [https://www.icef.com/academy/topic/b4-1-national-code-standards/](https://www.icef.com/academy/topic/b4-1-national-code-standards/)\n5. [https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/](https://www.icef.com/academy/topic/b7-1-criteria-applied-to-all-student-applications/)\n6. [https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/](https://www.icef.com/academy/topic/a8-3-agriculture-environment-and-veterinary-science/)\n7. [https://www.icef.com/academy/topic/a8-7-architecture-and-building/](https://www.icef.com/academy/topic/a8-7-architecture-and-building/)\n8. [https://www.icef.com/academy/topic/a8-1-business-and-economics/](https://www.icef.com/academy/topic/a8-1-business-and-economics/)\n9. [https://www.icef.com/academy/topic/a8-8-creative-industries/](https://www.icef.com/academy/topic/a8-8-creative-industries/)\n10. [https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/](https://www.icef.com/academy/topic/b4-2-responsibilities-of-registered-providers-to-education-agents/)\n11. [https://www.icef.com/academy/lessons/a9-extension-useful-information/](https://www.icef.com/academy/lessons/a9-extension-useful-information/)\n"
+    }
+  ],
+  "accuracy": 0.8,
+  "test_time_seconds": 472.7500801086426
+}

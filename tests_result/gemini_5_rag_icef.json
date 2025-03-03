@@ -1,0 +1,689 @@
+{
+  "total_questions": 40,
+  "correct_answers": 37,
+  "incorrect_answers": 3,
+  "question_results": [
+    {
+      "question": "COEs (confirmation of enrolments) are created through:\n\nAnswer options:\nPRISMS\nThe local Australian Embassy/Consulate- General.\nCRICOS\nAEI",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "PRISMS"
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "PRISMS"
+      ],
+      "is_correct": true,
+      "full_response": "Answer: PRISMS"
+    },
+    {
+      "question": "Legislation and regulations in Australia relating to the enrolment of international students are:\n\nAnswer options:\nThe ESOS Act 2000 and The National Code of Practice 2018\nThe National Code of practice on student developments within Australia and The Australia Act 1986\nThe ESOS Act 2000 and The Migration Act 1958\nThe Migration Act 1958 and The Australia Act 1901",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "The ESOS Act 2000 and The National Code of Practice 2018"
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "The ESOS Act 2000 and The National Code of Practice 2018"
+      ],
+      "is_correct": true,
+      "full_response": "The ESOS Act 2000 and The National Code of Practice 2018"
+    },
+    {
+      "question": "Which of the following circumstances is NOT reported online through PRISMS by an educational institution:\n\nAnswer options:\nStudents non-attendance\nStudents failing to meet course requirements\nStudents finishing their ELICOS course one week later due to approved vacation.\nBoth B and C",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "Students finishing their ELICOS course one week later due to approved vacation."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "Students finishing their ELICOS course one week later due to approved vacation."
+      ],
+      "is_correct": true,
+      "full_response": "Students not attending classes are reported. Students who do not meet the academic requirements of their course are also reported. However, students who finish their ELICOS course one week later because of an approved vacation are not reported.\n\nAnswer: C"
+    },
+    {
+      "question": "A student you recruited to study in Australia has been very sick and been taken to hospital. They have not provided the institution with a current address. This may mean:\n\nAnswer options:\nThe hospital is unable to release the student from hospital.\nThe student will not receive any letters about their possible non-compliance with visa conditions\nThe student will be deported from Australia for not providing current information to its education provider.\nThe student will not be believed when he tells the institution he was sick.",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "The student will not receive any letters about their possible non-compliance with visa conditions"
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "The student will not receive any letters about their possible non-compliance with visa conditions"
+      ],
+      "is_correct": true,
+      "full_response": "Answer: The student will not receive any letters about their possible non-compliance with visa conditions"
+    },
+    {
+      "question": "A student you recruited to study in Australia has contacted you. Their school has been forced to close down and they will no longer be able to attend classes. Which of the following is likely to happen to the student because their school is closing:\n\nAnswer options:\nThe student will have to go back to their home country because they will no longer be enrolled at a school in Australia. The school will cancel their visa and help them move back to home. The student will receive a refund from the School.\nThe student will have to go back to their home country because they will no longer be enrolled at a school in Australia. The student will be unable to recover their tuition fees.\nThe student should be able to transfer to another school in Australia because their status as an international student is protected by the ESOS Act 2000 and the Tuition Protection Service (TPS).\nNone of the above.",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "The student should be able to transfer to another school in Australia because their status as an international student is protected by the ESOS Act 2000 and the Tuition Protection Service (TPS)."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "The student should be able to transfer to another school in Australia because their status as an international student is protected by the ESOS Act 2000 and the Tuition Protection Service (TPS)."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: The student should be able to transfer to another school in Australia because their status as an international student is protected by the ESOS Act 2000 and the Tuition Protection Service (TPS)."
+    },
+    {
+      "question": "The Tuition Protection Service is outlined in:\n\nAnswer options:\nThe Australia Act 1901\nChild Protection Legislation Amendment Act 2003\nThe Migration Act 1965\nThe ESOS Act 2000",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "The ESOS Act 2000"
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "The ESOS Act 2000"
+      ],
+      "is_correct": true,
+      "full_response": "The ESOS Act 2000"
+    },
+    {
+      "question": "Which of the following is a place that a student may apply for a student visa:\n\nAnswer options:\nOffice of Fair Trading\nEnglish Australia\nAt an AEI office\nOnline through the DHA website",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "Online through the DHA website"
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "Online through the DHA website"
+      ],
+      "is_correct": true,
+      "full_response": "Online through the DHA website"
+    },
+    {
+      "question": "Which of the following is never required by DHA for an individual to obtain a student visa:\n\nAnswer options:\nA valid passport\nProviding appropriate information about the financial ability to pay for their study\nProviding appropriate information about the English proficiency of the student\nProviding appropriate information about the individuals knowledge of the history, language and culture of Australia.",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "Providing appropriate information about the individuals knowledge of the history, language and culture of Australia."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "Providing appropriate information about the individuals knowledge of the history, language and culture of Australia."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: D"
+    },
+    {
+      "question": "DHA considers evidentiary requirements for students from different countries on the basis of:\n\nAnswer options:\nHow many friends and relatives a student has who are currently living or studying in Australia.\nHow much business in trade and exports Australia does with the student\u2019s country.\nStatistical evidence of how students from that country comply with their visa conditions based on previous students\u2019 behaviour in the last 12 months.\nHow likely it is that students will want to live in Australia after they graduate.",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "Statistical evidence of how students from that country comply with their visa conditions based on previous students\u2019 behaviour in the last 12 months."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "Statistical evidence of how students from that country comply with their visa conditions based on previous students\u2019 behaviour in the last 12 months."
+      ],
+      "is_correct": true,
+      "full_response": "Statistical evidence from the last 12 months of student behaviour regarding visa compliance from a student's country is taken into account."
+    },
+    {
+      "question": "A student you recruited to study in Australia is studying a Bachelor of Engineering at university on a Student Visa. The student is finding their study program very difficult and would like to study part- time rather than full-time. The student can:\n\nAnswer options:\nStudy part-time under The National Code as it allows students to study part-time in exceptional circumstances.\nNot change to part-time study. Under The National Code students on student visa are not allowed to study part-time.\nStudy part-time if the Vice-Chancellor of the university approves their study plan.\nNot study part-time because the Vice-Chancellor of their university does not allow students to study part-time.",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "Not change to part-time study. Under The National Code students on student visa are not allowed to study part-time."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "Not change to part-time study. Under The National Code students on student visa are not allowed to study part-time."
+      ],
+      "is_correct": true,
+      "full_response": "Not change to part-time study. Under The National Code students on student visa are not allowed to study part-time."
+    },
+    {
+      "question": "You recruited a student to study in a Foundation Year Program. The student has not been attending classes. The student is on a student visa and has been absent from class for two weeks now. The Institution should:\n\nAnswer options:\nLet the student do what they want as they are in Australia and away from their parents.\nSend an email to all agents telling them that the student you recruited is a very bad one.\nContact you immediately and ask for help in locating the student.\nReport the student without seeking to find out where the student is.",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "Contact you immediately and ask for help in locating the student."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "Contact you immediately and ask for help in locating the student."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: Contact you immediately and ask for help in locating the student."
+    },
+    {
+      "question": "A 17-year-old student will study in Australia. Under the relevant student visa conditions the student must:\n\nAnswer options:\nLive with a relative over 21, their parent or guardian or in accommodation approved by the education provider;\nLive with a relative over 18, their parent or guardian or in accommodation approved by the education provider;\nLive with a person over 21 years of age who has no criminal records or in accommodation approved by the education provider;\nLive where ever and with whomever they would like as the student is almost 18 and is living away from their home country.",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "Live with a relative over 21, their parent or guardian or in accommodation approved by the education provider;"
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "Live with a relative over 21, their parent or guardian or in accommodation approved by the education provider;"
+      ],
+      "is_correct": true,
+      "full_response": "Answer: Live with a relative over 21, their parent or guardian or in accommodation approved by the education provider;"
+    },
+    {
+      "question": "A student who gained a student visa under Streamlined arrangements:\n\nAnswer options:\ndoes not have to maintain health insurance for the duration of their studies in Australia;\nis able to live in Australia permanently.\nis able to study any course in any institution in Australia.\nmust remain in an AQF course of the same or higher level or they may need to apply for a new student visa.",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "must remain in an AQF course of the same or higher level or they may need to apply for a new student visa."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "must remain in an AQF course of the same or higher level or they may need to apply for a new student visa."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: must remain in an AQF course of the same or higher level or they may need to apply for a new student visa."
+    },
+    {
+      "question": "A prospective student is going to visit some relatives in Australia for 2 months. While she is in Australia she thinks she may study English. Her tourist visa has the condition 8201 on it. You inform the student that this means:\n\nAnswer options:\nShe is not able to undertake any study while in Australia. She will have to change to a student visa to be able to do this.\nShe is not able to engage in any study or training for more than three months.\nShe must take a chest x-ray if she intends to study in a classroom environment for more than 4 weeks.\nShe can study only English studies while she is in Australia and not any other short training or study course.",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "She is not able to engage in any study or training for more than three months."
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "She is not able to undertake any study while in Australia. She will have to change to a student visa to be able to do this."
+      ],
+      "is_correct": false,
+      "full_response": "She is not able to undertake any study while in Australia. She will have to change to a student visa to be able to do this."
+    },
+    {
+      "question": "The parents of a student you recruited to study in Australia call you. Their son is very ill and has been taken to hospital. He cannot attend classes and the parents are not sure what to do. You seek advice from your liaison at the student\u2019s school regarding his attendance and then tell his parents:\n\nAnswer options:\nNot to worry, as attendance is not recorded in Australian institutions.\nTo make sure their son gets a medical certificate from the doctor or hospital so that he can show this to the institution (and DHA if necessary) to prove he has been sick.\nThat he has a big problem as he is not allowed to miss any class for any reason.",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "To make sure their son gets a medical certificate from the doctor or hospital so that he can show this to the institution (and DHA if necessary) to prove he has been sick."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "To make sure their son gets a medical certificate from the doctor or hospital so that he can show this to the institution (and DHA if necessary) to prove he has been sick."
+      ],
+      "is_correct": true,
+      "full_response": "To make sure their son gets a medical certificate from the doctor or hospital so that he can show this to the institution (and DHA if necessary) to prove he has been sick."
+    },
+    {
+      "question": "One of the other counsellors in your office comes to ask your advice on the following situation:\nA student will study in an ELICOS program for 6 months and then enter into a Masters of Biotechnology course. The student has paid her tuition fees and the Overseas Student Health Cover (OSHC) for the ELICOS course. She wants to pay her tuition fees for the Masters course but the university is asking her to also pay OSHC. The counsellor is unsure about what the student should do about their OSHC for the Masters course.\nYou advise the counsellor that the student:\n\nAnswer options:\nneeds to take out OSHC for the Masters course too before applying for a student visa as it is compulsory for international students to have health insurance for all courses in a package of offers while studying in Australia.\nshould take out OSHC covering the Masters course too because it is always a better option to be covered just in case of an accident.\ndoes not need to pay OSHC to cover the length of the other course. This is just another expense in an already expensive process.",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "needs to take out OSHC for the Masters course too before applying for a student visa as it is compulsory for international students to have health insurance for all courses in a package of offers while studying in Australia."
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "needs to take out OSHC for the Masters course too before applying for a student visa as it is compulsory for international students to have health insurance for all courses in a package of offers while studying in Australia."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: needs to take out OSHC for the Masters course too before applying for a student visa as it is compulsory for international students to have health insurance for all courses in a package of offers while studying in Australia."
+    },
+    {
+      "question": "The parents of a 21-year-old student ask you to contact the institution their daughter is studying in to obtain her results. You contact the institution and ask if you can have a copy of her academic results. The institution should:\n\nAnswer options:\nGive the information to the parents as they have paid for the student to be in the program.\nOnly give the results to the parents through you after asking the student for permission to do this and obtaining this permission in writing as privacy laws require.\nNot give the information to the parents as required by migration laws.\nNot give the information to the parents unless they pay the institution a fee.",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "Only give the results to the parents through you after asking the student for permission to do this and obtaining this permission in writing as privacy laws require."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "Only give the results to the parents through you after asking the student for permission to do this and obtaining this permission in writing as privacy laws require."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: Only give the results to the parents through you after asking the student for permission to do this and obtaining this permission in writing as privacy laws require."
+    },
+    {
+      "question": "When a student has been reported to DHA by the education provider, DHA will send a letter to the student asking them to explain their circumstances to DHA. How long does the student have to contact DHA and make an appointment?\n\nAnswer options:\n20 days\n5 days\n35 days\n28 days",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "28 days"
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "28 days"
+      ],
+      "is_correct": true,
+      "full_response": "28 days"
+    },
+    {
+      "question": "A student visa in Australia:\n\nAnswer options:\nIs only necessary for students wanting to study at university.\nIs issued by DET under the Australia Act 1986.\nIs issued by DHA under the Migration Act 1958.\nRequires all students to study in Australia for a minimum of three years.",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "Is issued by DHA under the Migration Act 1958."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "Is issued by DHA under the Migration Act 1958."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: Is issued by DHA under the Migration Act 1958."
+    },
+    {
+      "question": "Which of the following is a way of keeping updated and advising students on changes in legislation and regulations relating to international education:\n\nAnswer options:\nAustralia Post\nDHA\nAEI\nBoth B and C",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "Both B and C"
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "DHA"
+      ],
+      "is_correct": false,
+      "full_response": "Answer: B"
+    },
+    {
+      "question": "The institution that you represent has a refund policy that states that all money is refundable if the student cannot commence studies due to health reasons. Which of the following could be considered a \u2018health\u2019 reason:\n\nAnswer options:\nThe student is homesick and wants to return home\nDeath of a distant relative\nStudent is hurt in a car accident\nStudent decides to go to USA on a holiday",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "Student is hurt in a car accident"
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "Student is hurt in a car accident"
+      ],
+      "is_correct": true,
+      "full_response": "Student is hurt in a car accident."
+    },
+    {
+      "question": "The basic guidelines that describe the work rights students have while on a student visa are:\n\nAnswer options:\nA student can only work up to 40 hours per fortnight in volunteer work or work required by their course of study.\nA student can work up to 40 hours per fortnight when their program is in session and for unlimited hours during vacation times.\nA student can work up to 40 hours per fortnight when their program is in session and during vacation times.\nA student can work up to 20 hours a week when their program is in session but only in administration or cleaning jobs.",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "A student can work up to 40 hours per fortnight when their program is in session and for unlimited hours during vacation times."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "A student can work up to 40 hours per fortnight when their program is in session and for unlimited hours during vacation times."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: B"
+    },
+    {
+      "question": "A student visa issued with the condition 8202 means:\n\nAnswer options:\nA student must maintain adequate health insurance for the duration of their studies in Australia.\nA student cannot work without applying for a permission to work student visa once they arrive in Australia and commence their program.\nA student must be enrolled as a full-time student in a registered program.\nA student must remain with the education provider with which they originally enrolled for the first 12 months of the program.",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "A student must be enrolled as a full-time student in a registered program."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "A student must be enrolled as a full-time student in a registered program."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: C"
+    },
+    {
+      "question": "A student visa issued with the condition 8533 means:\n\nAnswer options:\nA student must maintain adequate health insurance for the duration of their studies in Australia.\nA student cannot work without applying for a permission to work student visa once they arrive in Australia and commence their program.\nA student can enrol as a part-time student in a registered program.\nThe student must keep the education institution informed of their current address in Australia. They have 7 days to notify the institution of any changes.",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "The student must keep the education institution informed of their current address in Australia. They have 7 days to notify the institution of any changes."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "The student must keep the education institution informed of their current address in Australia. They have 7 days to notify the institution of any changes."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: The student must keep the education institution informed of their current address in Australia. They have 7 days to notify the institution of any changes."
+    },
+    {
+      "question": "If a student is on a package of courses with the principal course being a bachelor degree, when they have finished 6 months of their first course (and ELICOS program) they will:\n\nAnswer options:\nbe able to change to any other institution without getting a letter of release from the ELICOS provider because they have completed 6 months of study.\nbe able to change to another institution if they receive a letter of release from the institution offering the Bachelor degree because this is the principal course.\nneed to continue to study on the original package of courses, there is no way they can change institutions.\nbe able to change to another course at the same institution but there is no way for them to change to another institution even with a letter of release.",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "be able to change to another institution if they receive a letter of release from the institution offering the Bachelor degree because this is the principal course."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "be able to change to another institution if they receive a letter of release from the institution offering the Bachelor degree because this is the principal course."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: be able to change to another institution if they receive a letter of release from the institution offering the Bachelor degree because this is the principal course."
+    },
+    {
+      "question": "A student who has studied a Bachelor\u2019s degree in Australia for 3 years:\n\nAnswer options:\nwill be able to apply for a Temporary Graduate Visa to work in Australia for up to 2 years following their Graduation\nwill be unable to work in Australia following their Graduation and must return home\nwill be able to migrate to Australia permanently after Graduation\nwill only be able to work in Australia after Graduation because their degree is from an Australian institution",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "will be able to apply for a Temporary Graduate Visa to work in Australia for up to 2 years following their Graduation"
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "will be able to apply for a Temporary Graduate Visa to work in Australia for up to 2 years following their Graduation"
+      ],
+      "is_correct": true,
+      "full_response": "Answer: **will be able to apply for a Temporary Graduate Visa to work in Australia for up to 2 years following their Graduation**"
+    },
+    {
+      "question": "You recruited an 18 year old student to study in a Foundation program in Australia. She has recently moved out of her homestay and into an apartment with some friends. Whose responsibility is it to ensure that the education provider has her current address?\n\nAnswer options:\nThe student is responsible for informing her education provider of her change of address.\nThe education provider is responsible for contacting the student and asking her to change her address.\nDHA is responsible for contacting the student and asking her to change her address.\nAEI is responsible for contacting the student and asking her to change her address.",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "The student is responsible for informing her education provider of her change of address."
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "The student is responsible for informing her education provider of her change of address."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: The student is responsible for informing her education provider of her change of address."
+    },
+    {
+      "question": "When a student applies for a student visa which of the following general requirements will a student NOT need to provide with the application?\n\nAnswer options:\nOverseas Student Health Insurance\nKnowledge of Australian culture\nArrangements for students under 18\nConfirmation of Enrolment",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "Knowledge of Australian culture"
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "Knowledge of Australian culture"
+      ],
+      "is_correct": true,
+      "full_response": "Knowledge of Australian culture"
+    },
+    {
+      "question": "A student you recruited to study in Australia is studying a three-year Bachelor of Arts program. In her last semester the student was admitted to hospital and missed 4 weeks. She feels that she is not able to finish her program and she would like to extend her studies by one more semester. You inform the student that she:\n\nAnswer options:\nCan apply for a tourist visa.\nCannot apply for an extension to her student visa.\nCannot apply for an extension to her student visa as extensions are only granted for international students studying part time.\nCan apply for an extension to her student visa. The student should make an appointment with DHA to discuss the issue and bring documents with her such as her passport and a copy of her hospital records.",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "Can apply for an extension to her student visa. The student should make an appointment with DHA to discuss the issue and bring documents with her such as her passport and a copy of her hospital records."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "Can apply for an extension to her student visa. The student should make an appointment with DHA to discuss the issue and bring documents with her such as her passport and a copy of her hospital records."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: Can apply for an extension to her student visa. The student should make an appointment with DHA to discuss the issue and bring documents with her such as her passport and a copy of her hospital records."
+    },
+    {
+      "question": "Which of the following statements is TRUE about student complaints?\n\nAnswer options:\nA student must access the institution\u2019s internal complaint process before they contact the OSO or State Ombudsman.\nStudents cannot complain about their agent to the OSO or State Ombudsman.\nIf a student contacts the OSO, the police will never investigate the complaint.\nStudents only the have the right to complain in certain, specified circumstances.",
+      "correct_indices": [
+        1
+      ],
+      "correct_answers": [
+        "A student must access the institution\u2019s internal complaint process before they contact the OSO or State Ombudsman."
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "A student must access the institution\u2019s internal complaint process before they contact the OSO or State Ombudsman."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: A student must access the institution\u2019s internal complaint process before they contact the OSO or State Ombudsman."
+    },
+    {
+      "question": "Which of the following proposed course changes might require a student to obtain a new visa?\n\nAnswer options:\nThe student is studying in a Foundation program and wishes to change to a Bachelor of Business.\nThe student is studying in a Bachelor of Business and wishes to change to a Certificate IV of Business.\nThe student wishes to change from one undergraduate program to another undergraduate program.\nThe student is studying in an ELICOS program and wishes to change to Diploma in Business.",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "The student is studying in a Bachelor of Business and wishes to change to a Certificate IV of Business."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "The student is studying in a Bachelor of Business and wishes to change to a Certificate IV of Business."
+      ],
+      "is_correct": true,
+      "full_response": "The student is studying in a Bachelor of Business and wishes to change to a Certificate IV of Business."
+    },
+    {
+      "question": "When applying for a student visa the term \u2018principal course\u2019 means:\n\nAnswer options:\nThat the course must have a Principal in charge of it.\nThat this is the course the student intends to take at the highest level.\nThat this will include a high school course.\nNone of the above.",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "That this is the course the student intends to take at the highest level."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "That this is the course the student intends to take at the highest level."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: That this is the course the student intends to take at the highest level."
+    },
+    {
+      "question": "Standard 1 of the National Code 2018 details requirements for marketing and student information that education providers must follow. Which of the following is False?\n\nAnswer options:\nThe provider must ensure that marketing of its education and training services is carried out with integrity and accuracy.\nAn education provider does not need to inform students about the duration, qualification or fees that will apply to them if they study.\nAn education provider must not accept international students for enrolment in a course unless they give students an accurate representation of such things as location of campuses and costs of living.\nInformation to students about the course, facilities and learning resources can be provided in electronic format.",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "An education provider does not need to inform students about the duration, qualification or fees that will apply to them if they study."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "An education provider does not need to inform students about the duration, qualification or fees that will apply to them if they study."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: An education provider does not need to inform students about the duration, qualification or fees that will apply to them if they study."
+    },
+    {
+      "question": "Which of the following students being assessed under regular evidentiary requirements would NOT need to present an English proficiency test score to obtain a student visa?\n\nAnswer options:\nA student who completed high school in Nepal where all of the classes were conducted in English.\nChinese Students.\nA student who has completed 4 months of study in English in New Zealand.\nA student who has completed two years of study in Australia prior to applying for a visa.",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "A student who has completed two years of study in Australia prior to applying for a visa."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "A student who has completed two years of study in Australia prior to applying for a visa."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: D"
+    },
+    {
+      "question": "Which of the following is NOT one of the three main purposes of The ESOS Act 2000:\n\nAnswer options:\nTo establish and safeguard Australia\u2019s international reputation as a provider of high quality education and training.\nTo protect the interests of international students.\nTo protect the interests of domestic students.\nTo support the Australian Migration program.",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "To protect the interests of domestic students."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "To protect the interests of domestic students."
+      ],
+      "is_correct": true,
+      "full_response": "To protect the interests of domestic students."
+    },
+    {
+      "question": "One of the counsellors in your office is undertaking training about the Australian education system. They are unsure about some of the information they have read. Which of the following would you advise them is True?\n\nAnswer options:\nInternational students in Australian universities attend separate classes to local students.\nA student should attend at least 80% of all scheduled lessons in an ELICOS College.\nInternational students receive better treatment than domestic students.\nA student studying in an undergraduate program is more likely to enter into a Certificate IV than a Graduate diploma program upon completion of the undergraduate program.",
+      "correct_indices": [
+        2
+      ],
+      "correct_answers": [
+        "A student should attend at least 80% of all scheduled lessons in an ELICOS College."
+      ],
+      "extracted_indices": [
+        2
+      ],
+      "extracted_answers": [
+        "A student should attend at least 80% of all scheduled lessons in an ELICOS College."
+      ],
+      "is_correct": true,
+      "full_response": "Answer: A student should attend at least 80% of all scheduled lessons in an ELICOS College."
+    },
+    {
+      "question": "Unsatisfactory academic performance means:\n\nAnswer options:\nThat a student has not attended class to the 80% required.\nThat a student has not achieved the required English levels necessary to enter an undergraduate program.\nThat a student has failed the majority of their subjects and would be unable to continue studying in their current course.",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "That a student has failed the majority of their subjects and would be unable to continue studying in their current course."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "That a student has failed the majority of their subjects and would be unable to continue studying in their current course."
+      ],
+      "is_correct": true,
+      "full_response": "That a student has failed the majority of their subjects and would be unable to continue studying in their current course."
+    },
+    {
+      "question": "Which of the following statements about student visas is True?\n\nAnswer options:\nThe process an individual goes through in order to obtain a student visa is the same for everyone regardless of nationality or institution they will study with.\nStudents under 18 enrolling in a High School program do not need a student visa as they are not considered adults.\nWhen the visa application states that an individual must be of good character, this means that they must have no criminal record or poor previous visa compliance record.\nThere is no fee payable to apply for a student visa.",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "When the visa application states that an individual must be of good character, this means that they must have no criminal record or poor previous visa compliance record."
+      ],
+      "extracted_indices": [
+        3
+      ],
+      "extracted_answers": [
+        "When the visa application states that an individual must be of good character, this means that they must have no criminal record or poor previous visa compliance record."
+      ],
+      "is_correct": true,
+      "full_response": "When applying for a student visa, declaring that you are of good character involves confirming that you have not engaged in criminal activities or been deported before."
+    },
+    {
+      "question": "As an education agent you recruited a 17-year- old student to study in an English program. The parents of the student have asked you to provide them with the student\u2019s results. You ask the English College to give you these results. They:\n\nAnswer options:\nCannot give you the student\u2019s results unless the student gives permission.\nAsk you to pay a service fee before giving you the results.\nGive you the student\u2019s results as the student is under 18 and this is allowed by law.",
+      "correct_indices": [
+        3
+      ],
+      "correct_answers": [
+        "Give you the student\u2019s results as the student is under 18 and this is allowed by law."
+      ],
+      "extracted_indices": [
+        1
+      ],
+      "extracted_answers": [
+        "Cannot give you the student\u2019s results unless the student gives permission."
+      ],
+      "is_correct": false,
+      "full_response": "Answer: Cannot give you the student\u2019s results unless the student gives permission."
+    },
+    {
+      "question": "On CRICOS:\n\nAnswer options:\nThe provider code and course code will always be the same.\nThe provider code changes each year.\nThe course code is the same for every course that the education provider offers.\nThe course code will be different for each course that the education provider offers depending on the length and topic of the course. The provider code will always be the same for a certain education provider.",
+      "correct_indices": [
+        4
+      ],
+      "correct_answers": [
+        "The course code will be different for each course that the education provider offers depending on the length and topic of the course. The provider code will always be the same for a certain education provider."
+      ],
+      "extracted_indices": [
+        4
+      ],
+      "extracted_answers": [
+        "The course code will be different for each course that the education provider offers depending on the length and topic of the course. The provider code will always be the same for a certain education provider."
+      ],
+      "is_correct": true,
+      "full_response": "The course code will be different for each course that the education provider offers depending on the length and topic of the course. The provider code will always be the same for a certain education provider."
+    }
+  ],
+  "accuracy": 0.925,
+  "test_time_seconds": 353.46119356155396
+}
