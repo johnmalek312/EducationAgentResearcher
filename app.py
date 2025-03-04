@@ -32,15 +32,13 @@ def process_query():
     if not query_text:
         return jsonify({'error': 'No query provided'}), 400
     
-    # Get the number of results parameter (default to 5 if not specified)
-    num_results = int(data.get('num_results', 5))
-    
-    # Get the sources parameter (default to False if not specified)
-    include_sources = data.get('include_sources', False)
-    
+
     try:
         # Select the appropriate pipeline based on the request
         if pipeline == 'rag':
+            num_results = int(data.get('num_results', 5))
+            include_sources = data.get('include_sources', False)
+            
             response = rag_pipeline.query(query_text, num_results, sources=include_sources)
         elif pipeline == 'direct_gptr':
             response = direct_gptr_pipeline.query(query_text)
