@@ -101,8 +101,8 @@ Request body:
 
 Parameters:
 - `pipeline`: One of `rag`, `direct_llm`, `direct_gptr`, or `gptr_rag` (default: `rag`)
-- `num_results`: Number of documents to retrieve (default: 5)
-- `include_sources`: Whether to include source information (default: false)
+- `num_results`: Number of documents to retrieve (only used for rag pipeline, default: 5)
+- `include_sources`: Whether to include source information (only used for rag pipeline, default: false)
 
 ## Pipeline Descriptions
 
