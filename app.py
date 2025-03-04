@@ -4,6 +4,10 @@ from direct_gpt_researcher import EducationAgentRAG as DirectGPTResearcher
 from direct_llm import DirectLLMTest
 from gpt_researcher_rag import EducationAgentRAG as GPTResearcherRAG
 import os
+import logging
+
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 
@@ -22,6 +26,8 @@ def process_query():
     data = request.get_json()
     query_text = data.get('query', '')
     pipeline = data.get('pipeline', 'rag')  # Default to RAG pipeline
+    
+    logger.info(f"Processing query with pipeline: {pipeline}")
     
     if not query_text:
         return jsonify({'error': 'No query provided'}), 400
@@ -45,8 +51,10 @@ def process_query():
         else:
             return jsonify({'error': 'Invalid pipeline specified'}), 400
             
+        logger.info("Query processed successfully")
         return jsonify({'response': response})
     except Exception as e:
+        logger.error(f"Error processing query: {str(e)}", exc_info=True)
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
