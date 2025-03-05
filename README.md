@@ -21,6 +21,7 @@ A comprehensive question-answering system for Australian education agent regulat
 ## Overview
 
 This system evaluates four different approaches to answer questions about Australian education agent regulations:
+![image](https://github.com/user-attachments/assets/d48e2cc9-e44d-4f52-b453-2d77e8e56339)
 
 1. **RAG Pipeline**: Retrieval-augmented generation using local knowledge base (97.5% accuracy)
 2. **Direct LLM**: Pure LLM responses without retrieval (80% accuracy)
